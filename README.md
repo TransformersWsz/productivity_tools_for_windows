@@ -12,6 +12,7 @@
 |Visual Studio|宇宙最强IDE|https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16|
 |VS Code|微软出品的编辑器，适合做前端以及python开发|https://code.visualstudio.com/Download|
 |Office|办公三件套|可到各学校软件中心下载|
+|WPS|跨全平台（Win,Mac,Linux,Android,iOS）；云端备份，多端同步（不再需要从一个设备传文件到另一个设备）|https://www.wps.cn/|
 |Everything|简洁、快速的文件检索工具|http://www.voidtools.com/downloads/|
 |typora|markdown编辑器，所见即所得|https://typora.io/|
 |MobaXterm|服务器远程连接工具|https://mobaxterm.mobatek.net/download.html|
