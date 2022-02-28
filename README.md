@@ -19,3 +19,5 @@
 |Rufus|简洁轻巧的系统盘制作工具|https://rufus.ie/|
 |分区助手|傻瓜式操作的系统分区工具|https://www.disktool.cn|
 |石墨文档|可多人在线协同编辑的云端Office，支持markdown|https://shimo.im/download|
+|FastGithub|快速访问github|https://github.com/dotnetcore/fastgithub/releases|
+|Windows Terminal|微软出品的终端工具，集成了CMD、PowerShell、WSL|https://github.com/microsoft/terminal/releases|
